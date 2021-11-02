@@ -1,0 +1,2 @@
+com/android/solomon/kotlinbook/BuildConfig.java
+ com.android.solomon.kotlinbook.BuildConfig
